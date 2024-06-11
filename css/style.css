@@ -1,0 +1,26 @@
+.container {
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.large-button {
+    font-size: 24px;
+    padding: 10px 20px;
+}
+
+.blue-text {
+    color: blue;
+}
+
+.purple-text {
+    color: purple;
+}
+
+.buttons {
+    margin-top: 20px;
+}
+
+.buttons button {
+    margin: 5px;
+}
